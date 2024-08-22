@@ -123,7 +123,7 @@ rm -rf backup
 ```
 
 **Explanation:**
-- `rm -rf backup` recursively deletes the `backup` directory and all its contents.
+- `rm -rf backup` recursively deletes the `backup` directory and all its contents. The `-rf` is required to delete directories.
 
 ##
 
