@@ -6,7 +6,7 @@
 
 ## Description 📄
 
-In this activity, we will be building off of the CLI navigation commands we learned in our previous activity while adding onto that knowledge by exploring basic CLI (Command-Line Interface) file manipulation commands. You’ll learn how to create files, move, copy, and delete files and directories using commands like `touch`, `mv`, `cp`, and `rm`.
+In this activity, you will be building off of the CLI navigation commands you learned in the previous activity while adding onto that knowledge by exploring basic CLI (Command-Line Interface) file manipulation commands. You’ll learn how to create files, move, copy, and delete files and directories using commands like `touch`, `mv`, `cp`, and `rm`.
 
 By the end of this exercise, you should feel confident using these commands to manage files and directories in a command-line environment.
 
