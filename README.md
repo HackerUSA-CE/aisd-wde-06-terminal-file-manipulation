@@ -26,7 +26,7 @@ cli_file_manipulation/
    - [ ] Create a folder named `cli_file_manipulation` to store all your project files:
 
 ```bash
-cd mkdir cli_file_manipulation
+mkdir cli_file_manipulation
 ```
 
 **Explanation:**
